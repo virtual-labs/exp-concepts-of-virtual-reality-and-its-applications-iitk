@@ -1,1 +1,4 @@
-### Link your theory in here
+### Theory <br>
+The terms "virtual" and "reality" serve as the foundation for the definition of virtual reality. Virtual means close, whereas reality denotes the circumstances that people actually encounter. As a result, the word "virtual reality" essentially denotes "near-reality." <br>
+The use of computer technology to create an artificial environment is known as virtual reality (VR). Instead of using a traditional user interface, virtual reality places the user into an experience. Users are involved and given the opportunity to interact with 3D worlds rather than simply scanning the screen in front of them.  The computer is designed to act as a portal into an artificial world by mimicking the majority of senses, including vision, touch, smell, and hearing.<br>
+VR is a form of media that immerses you in the story. Your brain will process VR content as though it were a real experience when it is done correctly. You have the impression that you are actively working.
