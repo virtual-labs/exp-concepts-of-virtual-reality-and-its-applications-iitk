@@ -2,12 +2,12 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1. What are the 3 types of Virtual Reality?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "3D, non-immersive, digital",
+        "b": "Immersive, 3D, non-immersive",
+        "c": "Digital, semi-immersive, projective",
+        "d": "Immersive, semi-immersive, non-immersive"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -15,16 +15,16 @@
         "c": "Explanation 2",
         "d": "Explanation 2"
       },
-      "correctAnswer": "a",
+      "correctAnswer": "d",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "2. What Are the Challenges of Virtual Reality?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Users of virtual reality have complained of experiencing eyestrain.",
+        "b": "It is not popular",
+        "c": "It interferes with human senses",
+        "d": "It causes pollution"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -33,6 +33,36 @@
         "d": "Explanation 2"
       },
       "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3. Immersive VR is the most expensive form of VR?",
+      "answers": {
+        "a": "TRUE",
+        "b": "FALSE"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "4. What are the Advantages of Virtual Reality?",
+      "answers": {
+        "a": "Virtual reality (VR) improves the user experienceanswer1",
+        "b": "Makes ageing faster",
+        "c": "Decreases pollution",
+        "d": "Helps in agriculture"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
       "difficulty": "beginner"
     }
   ]
