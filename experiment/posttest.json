@@ -10,7 +10,7 @@
         "d": "Immersive, semi-immersive, non-immersive"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "a": "Explanation 1",
         "b": "Explanation 2",
         "c": "Explanation 2",
         "d": "Explanation 2"
@@ -25,7 +25,7 @@
         "b": "FALSE"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "a": "Explanation 1",
         "b": "Explanation 2"
       },
       "correctAnswer": "a",
@@ -34,13 +34,13 @@
     {
       "question": "3. What are the Advantages of Virtual Reality?",
       "answers": {
-        "a": "Virtual reality (VR) improves the user experienceanswer1",
+        "a": "Virtual reality (VR) improves the user experience",
         "b": "Makes ageing faster",
         "c": "Decreases pollution",
         "d": "Helps in agriculture"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "a": "Explanation 1",
         "b": "Explanation 2",
         "c": "Explanation 2",
         "d": "Explanation 2"
