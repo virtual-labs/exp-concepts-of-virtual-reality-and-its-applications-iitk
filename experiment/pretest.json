@@ -24,7 +24,10 @@
         "d": "Motion tracking sensors"
       },
       "explanations": {
-        "c": "Virtual reality systems use head-mounted displays, audio feedback, and motion tracking sensors to create immersive experiences. A keyboard and mouse are traditional input devices, not specialized VR components."
+        "a":" ",
+        "b":" ",
+        "c": "Virtual reality systems use head-mounted displays, audio feedback, and motion tracking sensors to create immersive experiences. A keyboard and mouse are traditional input devices, not specialized VR components.",
+        "d":" "
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
@@ -38,7 +41,10 @@
         "d": "Time travel"
       },
       "explanations": {
-        "a": "Virtual reality can simulate realistic environments for training, education, gaming, and medical uses, but time travel is not a real or practical application—it can only be simulated, not actually achieved."
+        "a":" ",
+        "b":" ",
+        "c":" ",
+        "d": "Virtual reality can simulate realistic environments for training, education, gaming, and medical uses, but time travel is not a real or practical application—it can only be simulated, not actually achieved."
       },
       "correctAnswer": "d",
       "difficulty": "beginner"
@@ -50,7 +56,8 @@
         "b": "False"
       },
       "explanations": {
-        "a": "AR and VR are different — VR creates a fully virtual environment, while AR overlays digital elements onto the real world."
+        "a":" ",
+        "b": "AR and VR are different — VR creates a fully virtual environment, while AR overlays digital elements onto the real world."
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
@@ -64,7 +71,10 @@
         "d": "Thoughts"
       },
       "explanations": {
-        "a": ": In the future, technology is expected to allow brain–computer interfaces, enabling people to control devices using their thoughts instead of traditional inputs like keyboards or voice."
+        "a":" ",
+        "b":" ",
+        "c":" ",
+        "d": ": In the future, technology is expected to allow brain–computer interfaces, enabling people to control devices using their thoughts instead of traditional inputs like keyboards or voice."
       },
       "correctAnswer": "d",
       "difficulty": "beginner"
