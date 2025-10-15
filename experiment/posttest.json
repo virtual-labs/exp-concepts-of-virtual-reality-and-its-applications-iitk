@@ -10,7 +10,10 @@
         "d": "Immersive, semi-immersive, non-immersive"
       },
       "explanations": {
-        "a": "The three main types of VR are based on the level of immersion — immersive, semi-immersive, and non-immersive."
+        "a":" ",
+        "b":" ",
+        "c":" ",
+        "d": "The three main types of VR are based on the level of immersion — immersive, semi-immersive, and non-immersive."
       },
       "correctAnswer": "d",
       "difficulty": "beginner"
@@ -22,7 +25,8 @@
         "b": "FALSE"
       },
       "explanations": {
-        "a": "Immersive VR requires advanced equipment like VR headsets, sensors, and motion tracking, making it the most expensive form."
+        "a": "Immersive VR requires advanced equipment like VR headsets, sensors, and motion tracking, making it the most expensive form.",
+        "b":" "
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
@@ -36,7 +40,10 @@
         "d": "Helps in agriculture"
       },
       "explanations": {
-        "a": "VR offers realistic simulations and interactive environments, enhancing learning, training, and entertainment experiences."
+        "a": "VR offers realistic simulations and interactive environments, enhancing learning, training, and entertainment experiences.",
+        "b":" ",
+        "c":" ",
+        "d":" "
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
