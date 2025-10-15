@@ -10,10 +10,7 @@
         "d": "To enhance the visual effects of movies and television shows"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The main goal of virtual reality (VR) is to create a computer-generated 3D environment that simulates real or imagined worlds. Users can interact with and experience these environments as if they were real, using devices like VR headsets and motion controllers. While VR is used ingaming, communication, and movies, its core purpose is realistic simulation and immersion."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
@@ -27,10 +24,7 @@
         "d": "Motion tracking sensors"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Virtual reality systems use head-mounted displays, audio feedback, and motion tracking sensors to create immersive experiences. A keyboard and mouse are traditional input devices, not specialized VR components."
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
@@ -44,10 +38,7 @@
         "d": "Time travel"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Virtual reality can simulate realistic environments for training, education, gaming, and medical uses, but time travel is not a real or practical application—it can only be simulated, not actually achieved."
       },
       "correctAnswer": "d",
       "difficulty": "beginner"
@@ -59,8 +50,7 @@
         "b": "False"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2"
+        "a": "AR and VR are different — VR creates a fully virtual environment, while AR overlays digital elements onto the real world."
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
@@ -74,10 +64,7 @@
         "d": "Thoughts"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": ": In the future, technology is expected to allow brain–computer interfaces, enabling people to control devices using their thoughts instead of traditional inputs like keyboards or voice."
       },
       "correctAnswer": "d",
       "difficulty": "beginner"
