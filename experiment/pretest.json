@@ -24,7 +24,7 @@
         "d": "Motion tracking sensors"
       },
       "explanations": {
-        "a": "Virtual reality systems use head-mounted displays, audio feedback, and motion tracking sensors to create immersive experiences. A keyboard and mouse are traditional input devices, not specialized VR components."
+        "c": "Virtual reality systems use head-mounted displays, audio feedback, and motion tracking sensors to create immersive experiences. A keyboard and mouse are traditional input devices, not specialized VR components."
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
