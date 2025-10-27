@@ -47,6 +47,40 @@
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
+    },
+     {
+      "question": "4. Which device is commonly used for an immersive VR experience?",
+      "answers": {
+        "a": "Keyboard and mouse",
+        "b": "Head-Mounted Display (HMD)",
+        "c": "Monitor and speakers",
+        "d": "Projector"
+      },
+      "explanations": {
+        "a": " ",
+        "b": "HMDs like Oculus Rift or HTC Vive provide a fully immersive VR experience by displaying 3D visuals and tracking head movements in real-time. ",
+        "c":" ",
+        "d":" "
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+     {
+      "question": "5. Which of the following is a common application of Virtual Reality?",
+      "answers": {
+        "a": "Email communication",
+        "b": "Flight simulation training",
+        "c": "Text editing",
+        "d": "Database management"
+      },
+      "explanations": {
+        "a": " ",
+        "b":"R is widely used in flight simulators to train pilots in a realistic, risk-free virtual environment before real-world practice. ",
+        "c":" ",
+        "d":" "
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
     }
   ]
 }
