@@ -13,7 +13,7 @@ The terms "virtual" and "reality" serve as the foundation for the definition of 
 <b>Name of Developer | <b> Prof. Aparna Dixit 
 :--|:--|
 <b> Institute | <b>  PSIT
-<b> Email id|     <b>  
+<b> Email id|     <b>  aparna.dixit@psit.ac.in
 <b> Department |  Physics department
 
 ### Contributors List
@@ -21,4 +21,5 @@ The terms "virtual" and "reality" serve as the foundation for the definition of 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
 1 |  Prof. Kantesh Balani | Faculty | MET | IIT Kanpur | kbalani@iitk.ac.in
-2 | UTKARSH RAI | Student | Physics  |PSIT |mutkarshrai@gmail.com
+2 | Gagandeep Singh | Student | IT  |PSIT |mutkarshrai@gmail.com
+3 | Kshama Mishra | Student | CS-AI  |PSIT |mutkarshrai@gmail.com
