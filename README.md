@@ -20,6 +20,6 @@ The terms "virtual" and "reality" serve as the foundation for the definition of 
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | Dr. Aparna Dixit (Mentor) | Faculty | . | PSIT | aparna.dixit@psit.ac.in
+1 | Dr. Aparna Dixit (Mentor) | Faculty | Physics | PSIT | aparna.dixit@psit.ac.in
 2 | Gagandeep Singh | Student | IT  |PSIT |
 3 | Kshama Mishra | Student | CS-AI  |PSIT |
