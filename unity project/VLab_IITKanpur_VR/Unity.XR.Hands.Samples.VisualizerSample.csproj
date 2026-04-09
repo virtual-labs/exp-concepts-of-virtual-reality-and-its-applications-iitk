@@ -10,10 +10,10 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{915816E6-CC1B-CEBC-3574-ECB838FF745F}</ProjectGuid>
+    <ProjectGuid>{A874A6EF-19ED-E9F2-B8CB-81B6446D50AD}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <AssemblyName>CFXRRuntime</AssemblyName>
+    <AssemblyName>Unity.XR.Hands.Samples.VisualizerSample</AssemblyName>
     <TargetFrameworkVersion>v4.7.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <BaseDirectory>.</BaseDirectory>
@@ -61,14 +61,13 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\6000.3.8f1\Editor\Data\Tools\BuildPipeline\Unity.SourceGenerators\Unity.UIToolkit.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\ThirdPartyAssets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Scripts\CFXR_ParticleTextFontAsset.cs" />
-    <Compile Include="Assets\ThirdPartyAssets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Scripts\CFXR_ParticleText_Runtime.cs" />
-    <Compile Include="Assets\ThirdPartyAssets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Scripts\CFXR_ParticleText.cs" />
-    <Compile Include="Assets\ThirdPartyAssets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Scripts\CFXR_Effect.cs" />
-    <Compile Include="Assets\ThirdPartyAssets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Scripts\CFXR_Effect.CameraShake.cs" />
+    <Compile Include="Assets\Samples\XR Hands\1.7.1\HandVisualizer\Scripts\HandVisualizer.cs" />
+    <Compile Include="Assets\Samples\XR Hands\1.7.1\HandVisualizer\Scripts\HandProcessor.cs" />
+    <Compile Include="Assets\Samples\XR Hands\1.7.1\HandVisualizer\Scripts\MaterialPipelineHandler.cs" />
+    <Compile Include="Assets\Samples\XR Hands\1.7.1\HandVisualizer\Scripts\JointVisualizer.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Assets\ThirdPartyAssets\JMO Assets\Cartoon FX Remaster\CFXR Assets\Scripts\CFXR Runtime.asmdef" />
+    <None Include="Assets\Samples\XR Hands\1.7.1\HandVisualizer\Unity.XR.Hands.Samples.VisualizerSample.asmdef" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
@@ -1161,6 +1160,18 @@
     </Reference>
     <Reference Include="System.Xml.Serialization">
       <HintPath>C:\Program Files\Unity\Hub\Editor\6000.3.8f1\Editor\Data\NetStandard\compat\2.1.0\shims\netfx\System.Xml.Serialization.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.InputSystem">
+      <HintPath>Library\ScriptAssemblies\Unity.InputSystem.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.XR.CoreUtils">
+      <HintPath>Library\ScriptAssemblies\Unity.XR.CoreUtils.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Unity.XR.Hands">
+      <HintPath>Library\ScriptAssemblies\Unity.XR.Hands.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="UnityEditor.UI">
