@@ -2,7 +2,7 @@
 
 <h3>1. Once you open github repository link you'll see something like the image below. Click on the green <b style="color: green;">Code</b> button to expand it and <b style="color: yellow;">Download ZIP</b> file.</h3>
 
-![Step 1](img/p1.png)
+<image src="img/img/p1.png">![Step 1](img/p1.png)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
