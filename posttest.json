@@ -1,0 +1,86 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1. What are the 3 types of Virtual Reality?",
+      "answers": {
+        "a": "3D, non-immersive, digital",
+        "b": "Immersive, 3D, non-immersive",
+        "c": "Digital, semi-immersive, projective",
+        "d": "Immersive, semi-immersive, non-immersive"
+      },
+      "explanations": {
+        "a":" ",
+        "b":" ",
+        "c":" ",
+        "d": "The three main types of VR are based on the level of immersion — immersive, semi-immersive, and non-immersive."
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2. Immersive VR is the most expensive form of VR?",
+      "answers": {
+        "a": "TRUE",
+        "b": "FALSE"
+      },
+      "explanations": {
+        "a": "Immersive VR requires advanced equipment like VR headsets, sensors, and motion tracking, making it the most expensive form.",
+        "b":" "
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3. What are the Advantages of Virtual Reality?",
+      "answers": {
+        "a": "Virtual reality (VR) improves the user experience",
+        "b": "Makes ageing faster",
+        "c": "Decreases pollution",
+        "d": "Helps in agriculture"
+      },
+      "explanations": {
+        "a": "VR offers realistic simulations and interactive environments, enhancing learning, training, and entertainment experiences.",
+        "b":" ",
+        "c":" ",
+        "d":" "
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+     {
+      "question": "4. Which device is commonly used for an immersive VR experience?",
+      "answers": {
+        "a": "Keyboard and mouse",
+        "b": "Head-Mounted Display (HMD)",
+        "c": "Monitor and speakers",
+        "d": "Projector"
+      },
+      "explanations": {
+        "a": " ",
+        "b": "HMDs like Oculus Rift or HTC Vive provide a fully immersive VR experience by displaying 3D visuals and tracking head movements in real-time. ",
+        "c":" ",
+        "d":" "
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+     {
+      "question": "5. Which of the following is a common application of Virtual Reality?",
+      "answers": {
+        "a": "Email communication",
+        "b": "Flight simulation training",
+        "c": "Text editing",
+        "d": "Database management"
+      },
+      "explanations": {
+        "a": " ",
+        "b":"R is widely used in flight simulators to train pilots in a realistic, risk-free virtual environment before real-world practice. ",
+        "c":" ",
+        "d":" "
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }
+  ]
+}
